@@ -6,3 +6,5 @@
 - Set up Python
 - Set up Flask
 - Purchase a domain name
+
+Here is an important link I want to share, [link](www.google.com).
