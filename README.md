@@ -1,3 +1,8 @@
-# test
+# My reposirttory
 
-https://github.com/users/ebarnea/emails/23885735/confirm_verification/c27844b2e9934166a8d42b6f70d412ef6229695b?utm_campaign=github-email-verification&utm_content=html&utm_medium=email&utm_source=verification-email
+## Here is a list of things I need to do to complete this project:
+
+- Create a database
+- Set up Python
+- Set up Flask
+- Purchase a domain name
