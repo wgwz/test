@@ -10,4 +10,4 @@
 - Set up Flask
 - Purchase a domain name
 
-Here is an important link I want to share, [link](www.google.com).
+Here is an important link I want to share, [whatever words here](http://www.google.com).
